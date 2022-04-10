@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "city": "Amritsar",
+      "latitude": "31.6334677",
+      "longitude": "74.7300352",
+      "covidcase": "157"
+    },
+    {
+      "city": "Mumbai",
+      "latitude": "19.0625741",
+      "longitude": "72.8268772",
+      "covidcase": "197"
+    },
+    {
+      "city": "Jammu & Kashmir",
+      "latitude": "33.5148791",
+      "longitude": "74.1403435",
+      "covidcase": "97"
+    },
+    {
+      "city": "Rajasthan",
+      "latitude": "26.5600912",
+      "longitude": "69.3791775",
+      "covidcase": "207"
+    },
+    {
+      "city": "Agra",
+      "latitude": "27.1761571",
+      "longitude": "77.9099726",
+      "covidcase": "707"
+    },
+
+    {
+      "city": "Delhi",
+      "latitude": "28.6466773",
+      "longitude": "76.8130718",
+      "covidcase": "1007"
+    }
+  ]
+}
